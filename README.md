@@ -20,7 +20,7 @@ The project layout is designed to be used with a recent version of Android Studi
 
 To get the source code, type:
 
-    git clone https://github.com/mycelium-com/wallet-android.git
+    git clone https://github.com/myceliumv2/wallet-android.git
     cd wallet-android
     git submodule update --init --recursive
 
